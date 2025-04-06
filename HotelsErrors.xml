@@ -5,7 +5,7 @@
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<!-- Error 3: Missing Phone element -->
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
